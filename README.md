@@ -2,6 +2,8 @@
 Hi, my name is Parinwaris Pangprasertgul (Hui). I'm a computer science student at SUTD. I'm originally from Thailand. <br><br>I have a strong passion in data science, data systems, and all things smart city, urban mobility & public transport infrastructure.
 <br><br> Feel free to contact me through email or LinkedIn. 
 
+Please check out my [technical portfolio website](https://parinwarishui.github.io/) as well! I'll be writing about my past projects in more detail there!
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/parinwaris-pangprasertgul) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:parinwaris.pangprasertgul@gmail.com) 
 
 # 💻
